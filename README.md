@@ -1,3 +1,4 @@
+
 # 💫 About Me
 
 <h3 align="center">👋 Hey, I'm <strong>Tyler Durden</strong></h3>
@@ -88,16 +89,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TylerCodeverse&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylerCodeverse&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TylerCodeverse&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylerCodeverse&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TylerCodeverse&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=TylerCodeverse&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TylerCodeverse&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TylerCodeverse&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -105,7 +106,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TylerCodeverse&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=TylerCodeverse&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -122,7 +123,7 @@
 
 <p align="center">
   <a href="https://github.com/TylerCodeverse?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TylerCodeverse&repo=Telegram-Bots&theme=tokyonight&hide_border=true" alt="Featured Repo"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TylerCodeverse&repo=Telegram-Bots&theme=tokyonight&hide_border=true" alt="Featured Repo" />
   </a>
 </p>
 
@@ -149,7 +150,7 @@
 ## 💡 Dev Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 ---
@@ -163,7 +164,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TylerCodeverse&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/TylerCodeverse?label=Followers&style=for-the-badge&color=36BCF7" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/TylerCodeverse?label=Stars&style=for-the-badge&color=36BCF7" alt="Stars"/>
 </p>
 
 ---
