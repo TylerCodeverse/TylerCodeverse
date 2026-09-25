@@ -1,4 +1,7 @@
-# 💫 About Me
+<!-- Logo at the very top -->
+<p align="center">
+  <img src="https://files.catbox.moe/0uu8qg.png" alt="TylerCodeverse Logo" width="180"/>
+</p>
 
 <h3 align="center">👋 Hey, I'm <strong>Tyler Durden</strong></h3>
 
@@ -9,7 +12,6 @@
   <a href="https://t.me/+jJj4UTdnm_U2YzM1">
     <img src="https://img.shields.io/badge/Join%20Discussion-Community-2ea043?style=for-the-badge&logo=telegram&logoColor=white" alt="Discussion Group"/>
   </a>
-  <img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-2ea043?style=for-the-badge" alt="Status"/>
 </p>
 
 <p align="center">
