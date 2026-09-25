@@ -1,9 +1,12 @@
-<!-- Logo at the very top -->
-<p align="center">
-  <img src="https://files.catbox.moe/0uu8qg.png" alt="TylerCodeverse Logo" width="180"/>
-</p>
+<!-- Banner-style Logo at the very top -->
+<div align="center">
+  <img src="https://files.catbox.moe/0uu8qg.png" alt="TylerCodeverse Banner" width="100%" style="border-radius: 10px;"/>
+</div>
 
-<h3 align="center">👋 Hey, I'm <strong>Tyler Durden</strong></h3>
+<!-- Animated Green Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=2EA043&center=true&vCenter=true&width=800&height=80&lines=👋+Hey%2C+I'm+Tyler+Durden;Creator+of+TylerCodeverse;Python+%7C+Java+%7C+Android+Developer;Build.+Learn.+Create." alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://t.me/TylerCodeverse">
@@ -12,10 +15,6 @@
   <a href="https://t.me/+jJj4UTdnm_U2YzM1">
     <img src="https://img.shields.io/badge/Join%20Discussion-Community-2ea043?style=for-the-badge&logo=telegram&logoColor=white" alt="Discussion Group"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Creator+of+TylerCodeverse;Python+%7C+Java+%7C+Android+Developer;Telegram+Bots+%26+Automation+Tools;Build.+Learn.+Create." alt="Typing SVG" />
 </p>
 
 ---
@@ -93,46 +92,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=TylerCodeverse&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9&ring_color=2ea043" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylerCodeverse&layout=compact&hide_border=true&bg_color=0D1117&title_color=2ea043&text_color=c9d1d9" height="180" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TylerCodeverse&hide_border=true&background=0D1117&ring=2ea043&fire=2ea043&currStreakLabel=2ea043&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TylerCodeverse&bg_color=0D1117&color=2ea043&line=2ea043&point=ffffff&hide_border=true" alt="Activity Graph" width="100%"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TylerCodeverse&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TylerCodeverse/TylerCodeverse/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TylerCodeverse/TylerCodeverse/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake animation" src="https://raw.githubusercontent.com/TylerCodeverse/TylerCodeverse/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/TylerCodeverse/Telegram-Bots">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TylerCodeverse&repo=Telegram-Bots&hide_border=true&bg_color=0D1117&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9" alt="Featured Repo" />
-  </a>
-</p>
-
-> 🚧 **More projects coming soon...** Stay tuned to [@TylerCodeverse](https://t.me/TylerCodeverse)
 
 ---
 
