@@ -3,10 +3,7 @@
   <img src="https://files.catbox.moe/0uu8qg.png" alt="TylerCodeverse Banner" width="100%" style="border-radius: 10px;"/>
 </div>
 
-<!-- Animated Green Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=2EA043&center=true&vCenter=true&width=800&height=80&lines=👋+Hey%2C+I'm+Tyler+Durden;Creator+of+TylerCodeverse;Python+%7C+Java+%7C+Android+Developer;Build.+Learn.+Create." alt="Typing SVG" />
-</h1>
+<h1 align="center">👋 Hey, I'm Tyler Durden</h1>
 
 <p align="center">
   <a href="https://t.me/TylerCodeverse">
@@ -15,6 +12,11 @@
   <a href="https://t.me/+jJj4UTdnm_U2YzM1">
     <img src="https://img.shields.io/badge/Join%20Discussion-Community-2ea043?style=for-the-badge&logo=telegram&logoColor=white" alt="Discussion Group"/>
   </a>
+</p>
+
+<p align="center">
+  <strong>Creator of TylerCodeverse | Python • Java • Android Developer</strong><br/>
+  <em>Telegram Bots & Automation Tools | Build. Learn. Create.</em>
 </p>
 
 ---
@@ -89,9 +91,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TylerCodeverse&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9&ring_color=2ea043" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylerCodeverse&layout=compact&hide_border=true&bg_color=0D1117&title_color=2ea043&text_color=c9d1d9" height="180" alt="Top Languages" />
+  <a href="https://github.com/TylerCodeverse">
+    <img src="https://github-readme-stats.vercel.app/api?username=TylerCodeverse&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9&ring_color=2ea043" height="180" alt="GitHub Stats" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/TylerCodeverse">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylerCodeverse&layout=compact&hide_border=true&bg_color=0D1117&title_color=2ea043&text_color=c9d1d9" height="180" alt="Top Languages" />
+  </a>
+</p>
+
+> ⚠️ **Note:** Agar stats images load nahi ho rahi, toh GitHub par images block ho sakti hain. VPN try karein ya thodi der baad refresh karein.
 
 ---
 
